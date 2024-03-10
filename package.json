@@ -1,0 +1,15 @@
+{
+    "name": "detectfaces",
+    "version": "1.0.0",
+    "description": "facial recognition",
+    "main": "detectFaces.js",
+    "author": "@vardyaphelios",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vardyaphelios/detectFaces.git"
+    },
+    "dependencies": {
+        "detectfaces": "^1.0.0"
+    }
+}
