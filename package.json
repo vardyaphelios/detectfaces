@@ -7,7 +7,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vardyaphelios/detectFaces.git"
+        "url": "https://github.com/vardyaphelios/detectFaces.git"
     },
     "dependencies": {
         "detectfaces": "^1.0.0"
